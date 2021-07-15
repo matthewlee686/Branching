@@ -15,3 +15,4 @@
 * 'git checkout (branch name)' - Switches to that Branch
 
 --Some change
+--More Changes
