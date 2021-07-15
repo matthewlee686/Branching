@@ -4,6 +4,9 @@
 * 'git status' - Show State of local repo
 * 'git log' - List commit history
 * 'git log --oneline' - Compact commit history
+
+
+## Branching
 * 'git branch' - Look at available Branches
 * 'git branch (new branch name)' - Creates a new Branch
 * 'git checkout (branch name)' - Switches to that Branch
