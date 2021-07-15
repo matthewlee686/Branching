@@ -7,6 +7,8 @@
 * 'git add .' - Stage current directory in git index
 * 'git commit -m "msg" ' -
 * 'git config -l' - List git and repo configuration
+* 'git diff sha' - Show diffs between current commit and commit id 'sha'
+* 'git diff oneBranch otherBranch' - Show diffs between 'oneBranch' and 'otherBranch' 
 
 
 ## Branching
